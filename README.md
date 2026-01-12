@@ -64,16 +64,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SushilShai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilShai&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilShai&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<!-- GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=SushilShai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<!-- GitHub Streak -->
+![](https://nirzak-streak-stats.vercel.app/?user=SushilShai&theme=dark&hide_border=false)
+
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SushilShai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
