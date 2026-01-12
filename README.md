@@ -65,20 +65,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SushilShai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilShai&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilShai&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](#)
-- 🌐 [Portfolio](#)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/sushil-shai-1511b1329/)
+- 🌐 [Portfolio](sushilshai.com.np)
+- 🐙 [GitHub](https://github.com/SushilShai)
 
 ---
 
