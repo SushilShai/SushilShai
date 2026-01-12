@@ -65,12 +65,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=SushilShai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilShai&theme=tokyonight" alt="GitHub Streak" />
   <br/>
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilShai&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
