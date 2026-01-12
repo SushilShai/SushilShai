@@ -78,7 +78,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/sushil-shai-1511b1329/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sushil-shai-1511b1329/)
 - 🌐 [Portfolio](sushilshai.com.np)
 - 🐙 [GitHub](https://github.com/SushilShai)
 
